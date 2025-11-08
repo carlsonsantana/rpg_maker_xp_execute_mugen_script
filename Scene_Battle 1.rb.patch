@@ -1,0 +1,10 @@
+--- "Scene_Battle 1.rb"	2025-11-08 00:22:09.447606675 -0300
++++ "Scene_Battle 1.rb.new"	2025-11-08 14:37:18.590441159 -0300
+@@ -50,6 +50,7 @@
+       Graphics.transition(40, "Graphics/Transitions/" +
+         $data_system.battle_transition)
+     end
++    MugenFight::start_fight
+     # Start pre-battle phase
+     start_phase1
+     # Main loop
