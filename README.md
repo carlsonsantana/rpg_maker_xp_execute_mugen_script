@@ -7,7 +7,7 @@ This script enables you to integrate a fighting game within **RPG Maker XP** by 
 * **RPG Maker XP** (Note: It may not work with RPG Maker VX);
 * **M.U.G.E.N. 1.0** (This scripts is not compatible with 1.1b, because that version can't save the `battle.log`, which is used to track the winner).
 
-## How to install
+## How to use in your game
 
 1. On RPG Maker XP, open the **Script Editor**;
 2. For every `*.rb` file in this folder, create a new script with the same name, but without the `.rb` extension (e.g., for the `MugenFight.rb` create the script named `MugenFight`) and copy the content of file and paste on the script;
