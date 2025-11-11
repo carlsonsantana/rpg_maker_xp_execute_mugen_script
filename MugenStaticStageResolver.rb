@@ -1,6 +1,7 @@
 class MugenStaticStageResolver
   def initialize
     @names = {}
+    @names["background0"] = "stage0-720"
     @names["background"] = "kfm"
   end
 

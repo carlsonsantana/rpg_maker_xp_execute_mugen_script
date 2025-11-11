@@ -1,9 +1,9 @@
 class MugenStaticCharacterResolver
   def initialize
     @names = {}
-    @names["Kung Fu Man"] = "kfm"
+    @names["Kung Fu Man"] = "kfm720"
     @names["Minion"] = "kfm"
-    @names["Clone"] = "kfm"
+    @names["Clone"] = "kfm720"
   end
 
   def resolve(actor)
