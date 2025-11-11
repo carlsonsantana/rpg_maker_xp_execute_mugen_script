@@ -23,6 +23,8 @@ MugenFight::start_fight
 ```ruby
 @names["${battleback_graphic}"] = "${stage_mugen_folder}"
 ```
+6. Copy the `mugen.bat` file to the root folder of your **RPG Maker XP** game;
+7. Create a folder named `mugen` in the game's root folder and copy all of your **M.U.G.E.N.** game files into that folder.
 
 ## Features
 
